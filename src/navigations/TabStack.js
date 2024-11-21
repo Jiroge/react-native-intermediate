@@ -16,8 +16,8 @@ const TabStack = () => {
         tabBarInactiveTintColor: '#e0f7fa',
         tabBarStyle: {
           backgroundColor: '#00838f',
-          height: 56,
-          paddingVertical: Platform.OS === 'ios' ? 20 : 0,
+          // height: 180,
+          paddingVertical: Platform.OS === 'ios' ? 0 : 0,
           fontSize: 20,
         },
         tabBarLabelStyle: {

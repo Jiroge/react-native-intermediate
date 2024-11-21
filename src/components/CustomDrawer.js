@@ -36,7 +36,7 @@ const CustomDrawer = props => {
             style={{
               color: '#fff',
               fontSize: 18,
-              fontFamily: 'Roboto-Medium',
+              // fontFamily: 'Roboto-Medium',
               marginBottom: 5,
             }}>
             John Doe
@@ -45,7 +45,7 @@ const CustomDrawer = props => {
             <Text
               style={{
                 color: '#fff',
-                fontFamily: 'Roboto-Regular',
+                // fontFamily: 'Roboto-Regular',
                 marginRight: 5,
               }}>
               280 Coins
@@ -64,7 +64,7 @@ const CustomDrawer = props => {
             <Text
               style={{
                 fontSize: 15,
-                fontFamily: 'Roboto-Medium',
+                // fontFamily: 'Roboto-Medium',
                 marginLeft: 5,
               }}>
               Tell a Friend
@@ -77,7 +77,7 @@ const CustomDrawer = props => {
             <Text
               style={{
                 fontSize: 15,
-                fontFamily: 'Roboto-Medium',
+                // fontFamily: 'Roboto-Medium',
                 marginLeft: 5,
               }}>
               Sign Out

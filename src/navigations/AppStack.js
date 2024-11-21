@@ -18,7 +18,7 @@ const TabContactsListScreen = ({ navigation }) => {
         },
         headerTintColor: '#fff',
         headerTitleStyle: {
-          fontFamily: 'Tahoma',
+          // fontFamily: 'Tahoma',
           fontWeight: 'bold',
         },
       }}>
@@ -60,7 +60,7 @@ const TabActionsScreen = ({ navigation }) => {
         },
         headerTintColor: '#fff',
         headerTitleStyle: {
-          fontFamily: 'Tahoma',
+          // fontFamily: 'Tahoma',
           fontWeight: 'bold',
         },
       }}>
